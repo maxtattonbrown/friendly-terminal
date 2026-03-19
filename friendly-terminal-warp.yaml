@@ -1,0 +1,31 @@
+# ABOUTME: Friendly Terminal color scheme for Warp.
+# ABOUTME: Warm parchment palette inspired by claude.ai.
+
+# Install: save to ~/.warp/themes/friendly-terminal.yaml
+# Then select "Friendly Terminal" in Warp's theme picker
+
+name: Friendly Terminal
+accent: "#DA7756"
+background: "#F5F0E8"
+foreground: "#2D2B26"
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#2D2B26"
+    red: "#B5432E"
+    green: "#3E7A4F"
+    yellow: "#86650F"
+    blue: "#3A6090"
+    magenta: "#7A4D72"
+    cyan: "#2D7070"
+    white: "#7A756B"
+  bright:
+    black: "#6B6455"
+    red: "#DA7756"
+    green: "#5A9A6A"
+    yellow: "#B8922D"
+    blue: "#5A83B5"
+    magenta: "#9B6B8A"
+    cyan: "#4D8C8C"
+    white: "#DDD6CA"

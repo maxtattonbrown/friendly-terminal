@@ -1,0 +1,41 @@
+# Friendly Terminal — Ghostty theme
+#
+# A warm, calm palette that makes the terminal feel less intimidating.
+# Inspired by claude.ai's parchment tones.
+#
+# Install: copy to ~/.config/ghostty/themes/friendly-terminal
+# Activate: add  theme = friendly-terminal  to your Ghostty config
+
+# ─── Base ─────────────────────────────────────
+# Warm parchment background, dark brown text
+background = #F5F0E8
+foreground = #2D2B26
+
+# ─── Cursor ──────────────────────────────────
+# Coral accent — warm and visible without being harsh
+cursor-color = #DA7756
+cursor-text = #F5F0E8
+
+# ─── Selection ───────────────────────────────
+selection-background = #DDD1C0
+selection-foreground = #2D2B26
+
+# ─── Normal colors ───────────────────────────
+palette = 0=#2D2B26
+palette = 1=#B5432E
+palette = 2=#3E7A4F
+palette = 3=#86650F
+palette = 4=#3A6090
+palette = 5=#7A4D72
+palette = 6=#2D7070
+palette = 7=#7A756B
+
+# ─── Bright colors ──────────────────────────
+palette = 8=#6B6455
+palette = 9=#DA7756
+palette = 10=#5A9A6A
+palette = 11=#B8922D
+palette = 12=#5A83B5
+palette = 13=#9B6B8A
+palette = 14=#4D8C8C
+palette = 15=#DDD6CA

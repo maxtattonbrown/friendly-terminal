@@ -1,0 +1,37 @@
+# ABOUTME: Friendly Terminal color scheme for Alacritty.
+# ABOUTME: Warm parchment palette inspired by claude.ai.
+
+# Install: add this to your ~/.config/alacritty/alacritty.toml
+# or import it with: [general] import = ["path/to/this/file"]
+
+[colors.primary]
+background = "#F5F0E8"
+foreground = "#2D2B26"
+
+[colors.cursor]
+cursor = "#DA7756"
+text = "#F5F0E8"
+
+[colors.selection]
+background = "#DDD1C0"
+text = "#2D2B26"
+
+[colors.normal]
+black   = "#2D2B26"
+red     = "#B5432E"
+green   = "#3E7A4F"
+yellow  = "#86650F"
+blue    = "#3A6090"
+magenta = "#7A4D72"
+cyan    = "#2D7070"
+white   = "#7A756B"
+
+[colors.bright]
+black   = "#6B6455"
+red     = "#DA7756"
+green   = "#5A9A6A"
+yellow  = "#B8922D"
+blue    = "#5A83B5"
+magenta = "#9B6B8A"
+cyan    = "#4D8C8C"
+white   = "#DDD6CA"
