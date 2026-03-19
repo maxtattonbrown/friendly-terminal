@@ -1,6 +1,6 @@
 # Friendly Terminal
 
-A color scheme for people who find the terminal intimidating.
+A terminal for everyone.
 
 ![Friendly Terminal preview — warm parchment background with a coffee mug, welcome message, and colour palette](screenshot.png)
 
