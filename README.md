@@ -6,11 +6,13 @@ A color scheme for people who find the terminal intimidating.
 
 ## Why I made this
 
-I run sessions helping people get started with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — an AI that lives in your terminal. Most of the people I work with have never opened a terminal before. And the first thing they see is a black screen with a blinking cursor. It looks like it's waiting for you to say something wrong.
+The terminal intimidates people. But there's essentially no difference between the terminal and the AI chat apps everyone already uses — there's a bit where you type, and there's a bit where the AI responds.
 
-The single biggest thing I found that helped people relax? Changing the colours. Not the commands, not the workflow — just making it look like a normal app instead of a scene from The Matrix.
+Except there is one difference: the deep black background and white text sends a message. THIS IS NOT FOR YOU. THIS IS FOR HACKERS IN MOVIES FROM THE 90s.
 
-So I made this. Warm background, soft text, a coral cursor. It's the same palette as [claude.ai](https://claude.ai) — parchment tones instead of the void.
+So I made this — a theme with a warm background, soft text, and coral emphasis. Just like the desktop [Claude](https://claude.ai) app.
+
+My hope is that this makes it easier for more people to jump into [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and get the value it can offer.
 
 ## Which terminal do I have?
 
@@ -102,4 +104,4 @@ The bright red is the same coral as the cursor — it's the one bit of personali
 
 ## Credits
 
-Made by [Max Tatton-Brown](https://github.com/maxtattonbrown). Born out of [Claude Code Curious](https://claudecodecurious.com) — sessions where non-technical people try AI coding tools for the first time.
+Made by [Max Tatton-Brown](https://github.com/maxtattonbrown), founder of [Claude Code Curious](https://claudecodecurious.com).
