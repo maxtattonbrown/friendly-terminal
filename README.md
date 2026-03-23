@@ -4,6 +4,18 @@ A terminal for everyone.
 
 ![Friendly Terminal preview — warm parchment background with a coffee mug, welcome message, and colour palette](screenshot.png)
 
+## Quick install
+
+Paste this into your terminal:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/maxtattonbrown/friendly-terminal/main/install.sh | bash
+```
+
+It detects your terminal and installs the theme. On Mac Terminal, it applies instantly.
+
+Want the full beginner-friendly setup (theme + statusline + plugins)? Try [Claude Code: Easy Mode](https://claudecodecurious.com/claude-code-easy-mode/).
+
 ## Why I made this
 
 The terminal intimidates people. But there's essentially no difference between the terminal and the AI chat apps everyone already uses — there's a bit where you type, and there's a bit where the AI responds.
